@@ -3,10 +3,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    paths:
-      - README.md
-      - .github/workflows/metrics.yml
 
 permissions:
   contents: write
@@ -58,6 +54,10 @@ jobs:
 
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          
+          # 💡 ДОДАЙТЕ ЦЕЙ РЯДОК, ЩОБ УНИКНУТИ КОНФЛІКТІВ
+          git pull --rebase
+
           git add "$FILE"
           git commit -m "Bump README cache-buster to $TS [skip ci]" || echo "No README changes"
           git push
