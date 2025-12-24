@@ -26,7 +26,7 @@
 </picture>
 
 
-<img src="https://raw.githubusercontent.com/Bashmak-1/Bashmak-1/main/metrics-lecoq.svg?v=20486415984" width="60%"/>
+<img src="https://raw.githubusercontent.com/Bashmak-1/Bashmak-1/main/metrics-lecoq.svg?v=20486415984" width="90%"/>
 
 
 <p>
@@ -36,6 +36,6 @@
   <a href="https://t.me/Bashuk0" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Bashuk0-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
   </a>
-  </p>
+</p>
 
 </div>
