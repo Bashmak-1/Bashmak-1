@@ -9,13 +9,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bashmak-1&show_icons=true&theme=github_dark&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Bashmak-1&show_icons=true&theme=github&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Bashmak-1&show_icons=true&theme=github&hide_border=true" height="165" alt="Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bashmak-1&show_icons=true&theme=github&hide_border=true" height="165" width="90%" alt="Stats"/>
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashmak-1&layout=compact&theme=github_dark&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashmak-1&layout=compact&theme=github&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashmak-1&layout=compact&theme=github&hide_border=true" height="165" alt="Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashmak-1&layout=compact&theme=github&hide_border=true" height="165" width="90%" alt="Languages"/>
   </picture>
 </p>
 
