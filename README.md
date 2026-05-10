@@ -26,7 +26,7 @@
 </picture>
 
 
-<img src="https://raw.githubusercontent.com/Bashmak-1/Bashmak-1/main/metrics-lecoq.svg?v=25618118772" width="90%"/>
+<img src="https://raw.githubusercontent.com/Bashmak-1/Bashmak-1/main/metrics-lecoq.svg?v=25629733599" width="90%"/>
 
 
 <p>
